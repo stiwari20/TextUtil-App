@@ -1,0 +1,25 @@
+h2 {
+  margin: 50px 50px 20px;
+  /* text-align: center; */
+}
+
+#box {
+  margin: 10px 50px 20px;
+}
+
+.button-container button:first-child {
+  margin-left: 50px;
+}
+
+.darkMode {
+  background-color: #28282b;
+  color: white;
+}
+
+.card {
+  height: 500px;
+}
+
+.card-body {
+  text-align: center;
+}
